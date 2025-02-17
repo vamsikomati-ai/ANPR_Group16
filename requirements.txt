@@ -1,0 +1,7 @@
+torch
+gradio
+ultralytics
+opencv-python
+numpy
+paddlepaddle
+paddleocr
